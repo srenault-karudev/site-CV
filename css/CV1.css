@@ -1,0 +1,155 @@
+  
+body{
+    background-color: #E3E3E3;
+}
+
+.menu{
+    background-color:#3498DB; 
+    height:75px;
+    position:fixed ;
+    top: 0;
+    left:0;
+    right:0;
+}
+nav>ul>li{
+    display:inline-block;
+    padding:20px 25px;
+    font-size: 18px;
+    margin-top: -10px;
+}
+a{
+    text-decoration:none;
+    color:white;
+}
+
+
+
+a:hover{
+    text-decoration: underline;
+
+}
+.active>a{
+    color:#38ED90;
+}
+
+
+
+.telecharger{
+    color:#0F4472;
+    display: inline-block;
+    font-size:15px;
+    float:right;    
+    border:2px solid #3491D8;
+    padding:10px 20px 0px 10px ;
+    border-radius: 5px;
+    margin-right:20px;
+    cursor:pointer;
+    color:black;
+    background-color: #3498DB;
+ margin-top: 7px;
+    text-decoration:none;
+
+}
+.telecharger:hover {
+    background-color:#34ACD8;
+    text-decoration: none;
+}
+.imprimante
+{
+    float:right;
+    margin-left:10px;
+    margin-top:-5px;
+
+}
+
+.haut{
+    position:fixed;
+    top:90.5%;
+    margin-left:94%    
+}
+
+.upec{
+	margin-top:-35px;
+	margin-left:20px;
+	
+}
+.nom{
+    float: right;
+    margin-top: -60px;
+    margin-right: 20px;
+    font-size: 25px;
+    color :white;
+}
+
+footer{
+    margin-top:40px;
+    background-color:#3498DB; 
+    height:50px;
+    bottom: 0px;
+    left: 0px;
+    width: 100%
+
+}
+
+
+.copy > p {
+    padding-top: 10px;
+    text-align: center;
+    color:whitesmoke;
+}
+
+/* CV en ligne */
+.page
+{
+    width: 780px;
+    font-family: TimesNewRoman;
+    border: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 155px;
+    margin-bottom: 10px;
+    padding-bottom:-50px;
+    background-color: white;
+
+}
+
+
+.page h3
+{
+    font-size: 20px;
+    border-bottom: 3px solid black;
+    color:#1F4E79;
+    margin-left:20px;
+}
+
+.infophoto{
+    margin-left: 20px;
+}
+#photoprofil{
+    margin-left: 120px;
+    margin-top:10px;
+}
+.info
+{
+    float: left;
+}
+
+
+
+.colonne_gauche
+{
+    float: left;
+    font-weight: bold;
+    color:#5B9BD4;
+    margin-left:20px;
+    margin-top:-18px;
+}
+
+.colonne_droite
+{
+    margin-left: 350px;
+}
+
+/* Fin CV */

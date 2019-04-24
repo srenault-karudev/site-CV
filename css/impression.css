@@ -1,0 +1,17 @@
+@media print{
+  header{
+    display: none;
+  }
+
+  footer{
+    display: none;
+  }
+
+  .page{
+    margin-top: -50px;
+    border:0px;
+    border-style: none;
+  }
+}
+
+

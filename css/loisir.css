@@ -1,0 +1,194 @@
+
+
+body{
+    background-color:#E3E3E3;
+  
+}
+
+.menu{
+    background-color:#3498DB; 
+    height:75px;
+    position:fixed ;
+    top: 0;
+    left:0;
+    right:0;
+}
+
+nav>ul>li{
+    display:inline-block;
+    padding:20px 25px;
+    font-size: 18px;
+    margin-top: -10px;
+}
+a{
+    text-decoration:none;
+    color:white;
+}
+
+a:hover{
+    text-decoration: underline;
+
+}
+
+.active>a{
+    color:#38ED90;
+}
+
+.telecharger{
+    color:#0F4472;
+    display: inline-block;
+    font-size:15px;
+    float:right;    
+    border:2px solid #3491D8;
+    padding:10px 20px 0px 10px ;
+    border-radius: 5px;
+    margin-right:20px;
+    cursor:pointer;
+    color:black;
+    background-color: #3498DB;
+    text-decoration:none;
+     margin-top: 7px;
+
+}
+.telecharger:hover {
+    background-color:#34ACD8;
+    text-decoration: none;
+}
+.imprimante
+{
+    float:right;
+    margin-left:10px;
+    margin-top:-5px;
+
+}
+
+.Contact1{
+    color:#0F4472;
+    float:right;
+    font-size:18px;
+    display:block;
+}
+
+p{
+    font-family: Times New Roman;
+    color:#4D5656;
+    padding-left:10px; 
+    font-family: justify;  
+}
+
+
+
+
+
+h2{
+    color:#424949;
+    text-align: center;
+    padding-top:130px;
+}
+
+h3{
+
+    font-family: Comic Sans MS;
+    color:#3498DB ;
+
+}
+li{
+    font-family: Times New Roman;
+    color:#4D5656;
+}
+
+
+
+
+
+.sport{ 
+    border:1px solid whitesmoke;
+    background-color:white;
+    border-radius:10px;
+    box-shadow: 7px 7px 5px #888888;
+    margin-top:20px; 
+    padding-top:15px;
+    padding-left: 20px;
+	padding-right:10px;
+    width: 45%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
+
+
+.club {
+    margin-left:82%;
+    padding-bottom:80px;  
+    margin-top:-195px;  
+}
+.club2 {
+    margin-left:82%;
+    padding-bottom:80px;  
+    margin-top:-50px;  
+    margin-bottom: -70px;
+}
+
+
+.jeux
+{ 
+    border:1px solid whitesmoke;
+    background-color:white;
+    border-radius:10px;
+    box-shadow: 7px 7px 5px #888888;
+    margin-top:60px; 
+    padding-top:15px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+	padding-right:10px;
+    width: 45%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+	
+
+.ps3{
+    margin-left:82%;
+
+    margin-top:-120px;  
+
+}
+.haut{
+    position:fixed;
+    top:90.5%;
+    margin-left:94%    
+}
+
+.upec{
+	margin-top:-35px;
+	margin-left:20px;
+	
+}
+.nom{
+    float: right;
+    margin-top: -60px;
+    margin-right: 20px;
+    font-size: 25px;
+    color :white;
+}
+
+footer{
+    margin-top:270px;
+    background-color:#3498DB; 
+    height:50px;
+    bottom:0px;
+    right:0px;
+    left:0px;
+
+
+}
+
+
+.copy > p {
+    padding-top: 10px;
+    text-align: center;
+    color:whitesmoke;
+}

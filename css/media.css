@@ -1,0 +1,81 @@
+@media all and (max-width: 1024px){
+
+    .menu{
+        background-color:#3498DB; 
+        height:auto;
+        width: auto;
+        position: static;
+
+    }
+
+    nav>ul>li{
+        display:block;
+        text-align: center;        
+
+    }
+
+
+    nav>ul>li>a{
+        text-decoration:none;
+        color:whitesmoke;
+         font-size: 12px;
+    }
+  
+    
+    .telecharger{
+        margin-top:-12px; 
+        font-size:14px;   
+    }
+
+    .contenu{
+        padding-top:60px;
+    }
+}
+h2{
+    margin-top: 40px;
+}
+
+.haut{
+    margin-left: 85%;
+    top:80%;
+}
+
+
+
+.message{
+    margin-left:-60px;
+}
+
+.region{
+    margin-left: 800px;
+    margin-top:-30px;
+}
+
+.page{
+    width:705px;
+    margin-top:240px;
+}
+
+
+
+.bouttonjeux{
+
+    background-color:#38ED90;
+    border-radius:28px;
+    border-radius:28px;
+    border-radius:3px;
+    border:1px solid #43B5CF;
+    margin-left:360px;
+
+    cursor:pointer;
+    color:whitesmoke;
+    font-family:TimesNewRoman;
+    font-size:20px;
+    padding:16px 31px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #2f6627;
+    padding-top: -50px;
+
+}
+
+
